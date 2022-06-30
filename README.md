@@ -1,0 +1,1 @@
+This is a practice exercise to recreate a youtube homepage using HTMl and CSS code, following a youtube turotial. 
